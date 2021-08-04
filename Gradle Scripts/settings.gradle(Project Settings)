@@ -1,0 +1,2 @@
+rootProject.name = "ActividadPSTG5"
+include ':app'
